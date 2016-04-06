@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Ahoy hoy,
+
+This is the first thing that I am doing in git, apparently this is something that i should learn.
